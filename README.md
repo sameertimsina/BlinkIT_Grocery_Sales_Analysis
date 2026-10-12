@@ -41,3 +41,4 @@ This project analyzes BlinkIT grocery sales data using Python to understand prod
 
 ## Conclusion
 This project demonstrates how exploratory data analysis can reveal useful patterns in grocery sales data and support data-driven business decisions.
+
