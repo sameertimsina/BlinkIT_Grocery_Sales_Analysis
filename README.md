@@ -17,7 +17,7 @@ This project analyzes BlinkIT grocery sales data using Python to understand prod
 
 ### Distribution of Product Types
 
-![Distribution of Product Types](Reports\Figures\product_types_distribution.png)
+![Distribution of Product Types](Reports/Figures/product_types_distribution.png)
 
 ## Tools and Technologies
 - Python
