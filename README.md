@@ -11,9 +11,9 @@ This project analyzes BlinkIT grocery sales data using Python to understand prod
 
 ## Key Visualizations
 
-### Sales by Product Category
+### Sales by Outlet Type
 
-![task3.2_sales_by_outlet_type](Reports/Figures/task3.2_sales_by_outlet_type.png)
+![Sales by Outlet Type](Reports/Figures/task3.2_sales_by_outlet_type.png)
 
 ## Tools and Technologies
 - Python
