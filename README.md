@@ -9,6 +9,12 @@ This project analyzes BlinkIT grocery sales data using Python to understand prod
 - Examine relationships between item visibility, item weight, ratings, and sales.
 - Identify opportunities to improve inventory planning and outlet performance.
 
+## Key Visualizations
+
+### Sales by Product Category
+
+![Sales by Product Category](Reports/Figures/sales_by_category.png)
+
 ## Tools and Technologies
 - Python
 - Pandas and NumPy
